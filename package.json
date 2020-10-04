@@ -1,0 +1,17 @@
+{
+  "name": "amaicsys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thegreatallen9999",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "material-design-icons": "^3.0.1",
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0"
+  }
+}
